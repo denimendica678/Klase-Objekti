@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\bin\Debug\klaseObjekti.exe.config
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\bin\Debug\klaseObjekti.exe
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\bin\Debug\klaseObjekti.pdb
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\obj\Debug\klaseObjekti.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\obj\Debug\klaseObjekti.Form1.resources
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\obj\Debug\klaseObjekti.Properties.Resources.resources
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\obj\Debug\klaseObjekti.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\obj\Debug\klaseObjekti.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\obj\Debug\klaseObjekti.exe
+C:\Users\denim\source\repos\klaseObjekti\klaseObjekti\obj\Debug\klaseObjekti.pdb
